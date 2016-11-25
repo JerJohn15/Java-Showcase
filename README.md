@@ -8,3 +8,5 @@ This project will contain demos that showcase ideas that I come up with using Ja
 - Scenebuilder 
 - Java FX
 - Java 8 (lambas, streams,etc.)
+- Jfoenix
+- Netbeans IDE
